@@ -9,6 +9,7 @@
     <h1>DEMO GIT</h1>
     <div>Đây là sửa mới của tôi!</div>
     <p>Chào mừng bạn đến với test của tôi</p>
-    <strong>Hello Lê Sơn</strong>
+    <strong>Sửa được chưa aaaa</strong>
+    <pre>hella</pre>
 </body>
 </html>
