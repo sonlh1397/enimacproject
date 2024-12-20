@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>DEMO GIT</h1>
+    <div>Đây là sửa mới của tôi!</div>
+    <p>Chào mừng bạn đến với test của tôi</p>
 </body>
 </html>
