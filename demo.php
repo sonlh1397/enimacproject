@@ -10,6 +10,7 @@
     <div>Đây là sửa mới của tôi!</div>
     <p>Chào mừng bạn đến với test của tôi</p>
     <strong>Sửa được chưa aaaa</strong>
+    <b>không được</b>
     <pre>hella</pre>
 </body>
 </html>
